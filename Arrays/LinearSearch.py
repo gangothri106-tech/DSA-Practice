@@ -19,6 +19,3 @@ if flag:
     print(f"The {target} found at {index} ")
 if not flag:
     print(f"the {target} not found")
-
-    
-    
